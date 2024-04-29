@@ -1,0 +1,97 @@
+{
+  "header": {
+    "rLine": "R-LINE",
+    "sLine": "S-LINE",
+    "tLine": "T-LINE",
+    "sbg": "SBG",
+    "premierR4": "Premier R4",
+    "premierR6": "Premier R6",
+    "premierR8": "Premier R8",
+    "s32": "S32",
+    "s3232": "S32/32",
+    "s323227": "S32/32/27",
+    "stork": "Stork",
+    "lttrLive": "LTTR Live",
+    "lttrAuto": "LTTR Auto",
+    "lttLc": "LT LC",
+    "newsEvents": "News & Events",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "flag": "flag",
+    "en": "EN"
+  },
+  "carousel": {
+    "titleLight": "your ",
+    "titleBold": "best",
+    "titleBoldSecondary": "gaming experience"
+  },
+  "newsEventsPress": {
+    "news": {
+      "title": "News",
+      "heading": "EGT is expecting FADJA Columbia 2017",
+      "dateLocation": "April 4, 2017",
+      "text": "'We are expecting FADJA Columbia 2017 to continue our success from the 2016's event,'..."
+    },
+    "events": {
+      "title": "Events",
+      "heading": "Indian Gaming Show",
+      "dateLocation": "San Diego, April 10-13, 2017 Stand 1833",
+      "text": ""
+    },
+    "pressReleases": {
+      "title": "Press Releases",
+      "heading": "True Leader accolade for Bulgaran firm",
+      "dateLocation": "February 10, 2017",
+      "text": "Euro Games technologies has been awarded the True Leader 2015 Accolade. The company..."
+    },
+    "readMore": "Read More"
+  },
+  "products": {
+    "title": "Our Products",
+    "rLine": "R-Line",
+    "sLine": "S-Line",
+    "tLine": "T-Line"
+  },
+  "globalSolutions": {
+    "title": "Our Global Server Based Solution",
+    "heading": "OCTOPUS",
+    "subheading": "Server Based Gaming"
+  },
+  "footer": {
+    "newsEvents": "News & Events",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "careers": "Careers",
+    "rLine": "R-LINE",
+    "sLine": "S-LINE",
+    "tLine": "T-LINE",
+    "sbg": "SBG",
+    "premierR4": "Premier R4",
+    "premierR6": "Premier R6",
+    "premierR8": "Premier R8",
+    "s32": "S32",
+    "s3232": "S32/32",
+    "s323227": "S32/32/27",
+    "stork": "Stork",
+    "lttrLive": "LTTR Live",
+    "lttrAuto": "LTTR Auto",
+    "lttLc": "LT LC",
+    "solution": "Our solution",
+    "company": "Company",
+    "social": "Social networks",
+    "text": "© 2024 Euro Games Technology All rights reserved"
+  },
+  "altImageText": {
+    "logo": "App logo",
+    "next": "Next Slide Arrow",
+    "prev": "Previous Slide Arrow",
+    "random": "Random carousel image",
+    "randomImage": "Random image",
+    "open": "Open mobile menu icon",
+    "close": "Close mobile menu icon",
+    "facebook": "Facebook social icon",
+    "youtube": "Facebook social icon",
+    "nestedMenuOpen": "Open nested mobile menu icon",
+    "nestedMenuClose": "Close nested mobile menu icon"
+  }
+}
